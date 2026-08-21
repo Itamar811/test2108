@@ -9,7 +9,7 @@ def analyze_football_data(file_path):
     """
     # קריאת הקובץ
     df = pd.read_csv(file_path)
-    
+    print("gg")
     # הצגת מידע כללי
     print("כמות נתונים:", len(df))
     print("עמודות:", df.columns.tolist())
