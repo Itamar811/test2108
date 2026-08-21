@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 def analyze_football_data(file_path):
-    """
+    """dfdfdfdfdf
     פונקציה שמבצעת ניתוח נתונים בסיסי לסטטיסטיקות כדורגל
     :param file_path: נתיב לקובץ CSV עם נתוני משחקי כדורגל
     :return: None
